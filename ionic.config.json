@@ -1,0 +1,7 @@
+{
+  "name": "ionic-stable-useIonRouter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
